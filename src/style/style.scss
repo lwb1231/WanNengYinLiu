@@ -1,0 +1,16 @@
+//   // 背景色
+ .content{
+  margin-top: 46px;
+  overflow: hidden;
+}
+.bg{
+  background:#fff;
+  height: 100%;
+  overflow: hidden;
+}
+.bg-content{
+  height:calc(100% - 46px);
+  overflow: auto;
+  background:#F4F4F4;
+  // overflow: hidden;
+}
